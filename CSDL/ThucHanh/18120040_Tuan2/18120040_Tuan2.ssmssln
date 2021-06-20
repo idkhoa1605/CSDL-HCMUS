@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Bai01", "Bai01\Bai01.ssmssqlproj", "{325D4EDF-BF76-4D1B-B747-BDAA992694C7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Bai02", "Bai02\Bai02.ssmssqlproj", "{B95E2547-DB93-4362-9DA7-FFB8A70B1E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{325D4EDF-BF76-4D1B-B747-BDAA992694C7}.Default|Default.ActiveCfg = Default
+		{68C99465-4D8D-4523-B027-D78912D3C48E}.Default|Default.ActiveCfg = Default
+		{B95E2547-DB93-4362-9DA7-FFB8A70B1E8B}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
